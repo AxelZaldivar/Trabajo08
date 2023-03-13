@@ -1,0 +1,14 @@
+.next{
+    width: 320px;
+    height: 100px;
+    display: grid;
+    grid-auto-flow: column;
+    margin: 5px;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+    transition: all .2s;
+    text-align: center;
+}
